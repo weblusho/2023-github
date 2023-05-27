@@ -1,3 +1,5 @@
 Arquivo de bloco de notas para testar o envio de arquivos do git.
 muito interessante estas coisas.
 Estou começando a gostar de verdade
+
+Cliquei na tecla "i", então começou a editar no vim
