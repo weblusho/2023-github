@@ -3,3 +3,8 @@ muito interessante estas coisas.
 Estou começando a gostar de verdade
 
 Cliquei na tecla "i", então começou a editar no vim
+
+Nesta edição, eu coloquei uma chave pública dentro do git hub.
+Foi então em github.com/setting/ssh/ssh key/add new 
+<title> and <keys>
+O código de chave pública ficou armazenada no meu pc.
